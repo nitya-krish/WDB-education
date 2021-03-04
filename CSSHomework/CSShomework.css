@@ -1,0 +1,198 @@
+/* Ignore following classes */
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EEEEEE;
+}
+
+#intro{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    margin: 50px;
+}
+
+.insideborder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.para{
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+h2{
+    font-size: medium;
+    font-weight: 200;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Classes that you might find useful */
+/* Note* These classes do not cover every possibloe case to build you flags, you will have to continue to add your own*/
+
+
+.flag{
+    height: 300px;
+    width: 500px;
+    border-style: solid;
+    margin-bottom: 5rem;
+}
+
+.horiz{
+    display: flex;
+    flex-direction: row;
+}
+
+.twovert{
+    height: 50%;
+}
+
+.threevert{
+    height: 33.3%;
+}
+
+.threehoriz{
+    width: 33.3%
+}
+
+.skinny{
+    height: 17.5%;
+}
+
+.fat{
+    height: 30%;
+}
+
+#finlandskinnyh{
+    position: relative;
+    top: -30%;
+    left: 35%;
+    width: 90px;
+    height: 100%
+}
+
+#finlandskinnyv{
+    position: relative;
+    top: 35%;
+    left: 0;
+    height: 90px;
+    width: 100%;
+}
+
+
+.circle{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 85px;
+    top: 50px
+}
+
+#eagle{
+    background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coat_of_arms_of_Mexico.svg/245px-Coat_of_arms_of_Mexico.svg.png") center no-repeat white;
+    background-size:80%;
+}
+
+.specialhoriz{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 10%;
+    left: 30px;
+    height: 80%;
+    width: 12.5%
+}
+
+.specialskinny{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 10%;
+    left: 30px;
+    height: 80%;
+    width: 30px;
+}
+
+.specialhorizbox{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 10%;
+    left: 60px;
+    height: 80%;
+    width: 57%
+}
+
+
+
+
+
+
+/* Colors/ Feel free to add your own! */
+
+.red{
+    background-color: #CE1126;
+}
+
+.maroon{
+    background-color: #8E0D37;
+}
+
+.orange{
+    background-color: #EC7500;
+}
+
+.marigold{
+    background-color: #FFBF24;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: #006847;
+}
+
+.darkgreen{
+    background-color: #00524D;
+}
+
+.brightblue{
+    background-color: #00a3e0;
+}
+
+.blue{
+    background-color: #005bae;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.navy{
+    background-color: #2D2A4A;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.white{
+    background-color: white;
+}
+
+
+
