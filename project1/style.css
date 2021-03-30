@@ -1,0 +1,313 @@
+* {
+    position: relative;
+    width: 1440px;
+    height: 1303px;
+    background: #FFFFFF;
+}
+
+.box {
+    position: absolute;
+    border: 8px solid #000000;
+    box-sizing: border-box;  
+}
+
+.border {
+    background: #005671;
+}
+
+.top{
+    width: 1379px;
+    height: 61px;
+    left: 28px;
+    top: 17px;
+}
+
+.bottom {
+    width: 1379px;
+    height: 61px;
+    left: 28px;
+    top: 1216px;
+}
+
+.intro {
+    width: 760px;
+    height: 362px;
+    left: 28px;
+    top: 100px;
+}
+
+.about {
+    width: 594px;
+    height: 362px;
+    left: 813px;
+    top: 100px;
+}
+
+.text {
+    position: absolute;
+    font-family: Overpass;
+    font-style: normal;
+    color: #000000;
+}
+
+.i {
+    width: 341px;
+    height: 275px;
+    left: 80px;
+    top: 154px;
+
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 61px;
+
+    
+}
+
+.image {
+    position: absolute;
+    width: 298px;
+    height: 298px;
+    left: 457px;
+    top: 132px;
+
+    background: url(file:///Users/nityakrishnakumar/Desktop/Nitya-resize.jpg);
+}
+
+.atitle {
+    position: absolute;
+    width: 241px;
+    height: 61px;
+    left: 861px;
+    top: 154px;
+
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 61px;
+
+}
+
+.atext {
+    width: 508px;
+    height: 197px;
+    left: 860px;
+    top: 232px;
+
+    font-family: Overpass;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 40px;
+
+    color: #000000;
+}
+
+.small {
+    width: 371px;
+    height: 200px;
+    left: 28px;
+    top: 484px;
+}
+ .ptitle {
+    position: absolute;
+    width: 249px;
+    height: 148px;
+    left: 65px;
+    top: 508px;
+
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 74px;
+
+ }
+
+ .filler {
+    width: 371px;
+    height: 124px;
+    left: 28px;
+    top: 704px;
+    
+    background: #005671;
+ }
+
+ .proj {
+    height: 344px;
+    top: 484px;
+ }
+
+ .one {
+    width: 334px;
+    left: 421px;
+ }
+
+ .two {
+    width: 361px;
+    left: 738px; 
+ }
+
+ .three {
+    width: 366px;
+    left: 1042px;
+ }
+
+ .color1 {
+    background: #2D8FAD;
+ }
+ .color2 {
+    background: #5EAAC2;
+ }
+ .color3 {
+    background: #78CAE4;
+ }
+
+ .desc {
+    width: 262px;
+    height: 202px;
+    top: 593px;
+
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 40px;
+ }
+
+ .d1 {
+    left: 453px;
+ }
+
+ .d2 {
+    left: 780px;
+ }
+
+ .d3 {
+    left: 1126px;
+ }
+
+ .title {
+    position: absolute;
+    width: 128px;
+    height: 74px;
+    top: 502px;
+    
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 74px;
+ }
+
+ .t1 {
+    left: 453px;
+ }
+
+ .t2 {
+    left: 781px;
+ }
+
+ .t3 {
+    left: 1121px;
+ }
+
+.goals {
+    width: 1007px;
+    height: 344px;
+    left: 28px;
+    top: 850px;
+}
+.gtitle {
+    position: absolute;
+    width: 278px;
+    height: 61px;
+    left: 66px;
+    top: 884px;
+
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 61px;
+}
+
+.g {
+    width: 947px;
+    height: 197px;
+    left: 65px;
+    top: 962px;
+
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 40px;
+}
+
+ .contact {
+    width: 349px;
+    height: 344px;
+    left: 1058px;
+    top: 850px;
+ }
+
+ .ctitle {
+    position: absolute;
+    width: 143px;
+    height: 61px;
+    left: 1115px;
+    top: 883px;
+    
+    font-family: Overpass;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 61px;
+    
+    color: #000000;
+ }
+
+ .combine {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 1114px;
+    top: 958px;
+
+    background: #005671; 
+ }
+
+ .icon {   
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    
+    top: 958px;
+
+    background: #DADADA;
+ }
+
+ .facebook {
+    position: absolute;
+    width: 11.68px;
+    height: 25.02px;
+    left: 1131.63px;
+    top: 969.5px;
+    
+    background: #DADADA;
+    
+ }
+
+ .handle {
+    position: absolute;
+    width: 125px;
+    height: 40px;
+    left: 1114px;
+    
+    
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 40px;
+}
+
+.h1 {
+    top: 961px;
+}
+
+.h2 {
+    top: 1035px;
+}
+
+.h3 {
+    top: 1106px;
+}
+
